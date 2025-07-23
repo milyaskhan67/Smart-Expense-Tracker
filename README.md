@@ -98,10 +98,6 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 - Documentation improvements
 - UI/UX enhancements
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 **Why this project stands out**:
