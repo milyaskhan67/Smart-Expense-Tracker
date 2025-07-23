@@ -1,0 +1,4 @@
+matplotlib
+fpdf2
+pandas
+hashlib
